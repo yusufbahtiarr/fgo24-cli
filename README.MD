@@ -26,7 +26,7 @@ rmdir latihan4.txt
 ```cmd
 cd lagu
 for %i in (Blackpink, Evanescence, "Linkin Park") do mkdir %i
-for %i in (Blackpink, Evanescence, "Linkin Park") do move %i.mp3 .\%i
+for %i in (Blackpink, Evanescence, "Linkin Park") do move %i*.mp3 .\%i
 ```
 
 ## This New
