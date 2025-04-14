@@ -24,11 +24,8 @@ rmdir latihan4.txt
 ## With loop
 
 ```cmd
-mkdir test
-cd test
-for ls %a in (1,1,5) do echo test
-ydaaa
-ydaaa
-.....
-.....
+cd lagu
+for %i in (Blackpink, Evanescence, "Linkin Park") do mkdir %i
+for %i in (Blackpink, Evanescence, "Linkin Park") do move %i.mp3 .\%i
 ```
+
