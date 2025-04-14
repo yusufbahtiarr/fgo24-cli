@@ -21,7 +21,7 @@ dir
 rmdir latihan4.txt
 ```
 
-## White loop
+## With loop
 
 ```cmd
 mkdir test
