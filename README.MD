@@ -21,7 +21,7 @@ dir
 rmdir latihan4.txt
 ```
 
-## With loop
+## With loop (CMD)
 
 ```cmd
 mkdir "Latihan CLI Dasar"
