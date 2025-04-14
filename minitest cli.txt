@@ -1,0 +1,13 @@
+-  mkdir "Latihan CLI Dasar"
+- cd "Latihan CLI Dasar"
+- "" > latihan1.txt
+- "" > latihan2.txt
+- "" > latihan3.txt
+- "" > latihan4.txt
+- "" > latihan5.txt
+- rmdir latihan4.txt
+- mkdir latihan4.txt
+- rmdir latihan5.txt
+- mkdir latihan5.txt
+- dir
+- rmdir latihan4.txt
